@@ -1,6 +1,6 @@
 ![Image](https://raw.githubusercontent.com/rooteracloud/desktop-app/gh-pages/logo.png)
 
-## Selamat Datang Di Rootera Cloud ERP Software
+## Selamat Datang
 
 Anda dapat menginstall light desktop app sesuai dengan release yang diinginkan pada menu samping dari web page ini.
 Aplikasi desktop CloudERP saat ini baru tersedia untuk versi windows, sedangkan untuk pengguna linux dan Mac, aplikasi sedang dalam proses untuk release pada versi berikutnya. 
