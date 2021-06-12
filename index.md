@@ -2,7 +2,7 @@
 
 ## Selamat Datang
 
-Anda dapat menginstall light desktop app sesuai dengan release yang diinginkan pada menu samping dari web page ini.
+Anda dapat menginstall light desktop app sesuai dengan release yang diinginkan pada [Halaman Release Aplikasi](https://github.com/rooteracloud/desktop-app/releases) kami.
 Aplikasi desktop CloudERP saat ini baru tersedia untuk versi windows, sedangkan untuk pengguna linux dan Mac, aplikasi sedang dalam proses untuk release pada versi berikutnya. 
 
 ### Cara Instalasi
