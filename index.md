@@ -11,6 +11,8 @@ Aplikasi desktop CloudERP saat ini baru tersedia untuk versi windows, sedangkan 
 - double klik file .exe 
 - aplikasi siap digunakan
 
+### Panduan Penggunaan Aplikasi
+[Panduan Penggunaan Aplikasi](https://rooteracloud.github.io/wiki/)
 ### Bantuan
 Jika mengalami kesulitan dalam proses instalasi atau terkait penggunaan aplikasi, silahkan hubungi [Kontak Support](https://support.github.com/contact) kami pada jam kerja.
 Butuh Referensi Untuk mempelajari penggunaan fitur aplikasi? klik [dokumentasi]() aplikasi kami.
