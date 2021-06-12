@@ -1,4 +1,4 @@
-![Image](https://www.rootera.co.id/assets/images/logo.png)
+![Image](https://raw.githubusercontent.com/rooteracloud/desktop-app/gh-pages/logo.png)
 
 ## Selamat Datang Di Rootera Cloud ERP Software
 
